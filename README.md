@@ -1,9 +1,9 @@
 # DATA-CLEANING-WITH-PYSPARK
 company codtech it solutions
 
-name shivani shinde
+name shubham chorge
 
-intern id CT04DH280
+intern id CT04DH207
 
 Domian Artificial Intelligence
 
